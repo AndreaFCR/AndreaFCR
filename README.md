@@ -1,8 +1,8 @@
-### Hi there, I'm Andrea 👋👩‍💻
+# Hi there, I'm Andrea 👋👩‍💻
 
 ## About me
 
-# I'm a computational biologist who decided to change her life becoming a "tech girl" as a newbie front-end developer. Here you can find stuff I'm learning and working on. Take a look! 😉
+### I'm a computational biologist who decided to change her life becoming a "tech girl" as a newbie front-end developer. Here you can find stuff I'm learning and working on. Take a look! 😉
 
 - 🧐 I’m currently looking for my first job as a front-end developer.
 - 🌱 I’m currently learning everything 🤣

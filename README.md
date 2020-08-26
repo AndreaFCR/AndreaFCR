@@ -9,7 +9,7 @@
 🧐 I’m currently looking for my first job as a front-end developer.<br />
 🌱 I’m currently learning everything 🤣 <br />
 🎯 2020 Goals: React and Angular I'm coming for you... <br />
-⚡ Fun facts: I love watching Christopher Nolan's movies 📽, cooking new delicious recipes 👩‍🍳 (I'm opened to suggestions) and dancing salsa 💃<br />
+⚡ Fun facts: I love watching Christopher Nolan's movies 📽, cooking new delicious recipes 👩‍🍳 (I'm opened to suggestions) and dancing salsa 💃 
 
 ## ⚙ Languages and Tools 
 

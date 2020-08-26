@@ -21,7 +21,7 @@
 
 <br />
 
-## You can find me 👇
+## 👇 You can find me 
 
 [![Linkedin Badge](https://img.shields.io/badge/-andreaclavijo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreaclavijo/)](https://www.linkedin.com/in/andreaclavijo/)
 [![Gmail Badge](https://img.shields.io/badge/-andrea.clavijo.r@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrea.clavijo.r@gmail.com)](mailto:andrea.clavijo.r@gmail.com)

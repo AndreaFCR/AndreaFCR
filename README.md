@@ -12,7 +12,7 @@
 ⚡ Fun facts: I love watching Christopher Nolan's movies 📽, cooking new delicious recipes 👩‍🍳 (any suggestion?) and dancing salsa 💃
 
 ## ⚙ Languages and Tools
-<br />
+
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -22,3 +22,7 @@
 <br />
 
 ## You can find me 👇
+
+[![Linkedin Badge](https://img.shields.io/badge/-andreaclavijo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreaclavijo/)](https://www.linkedin.com/in/andreaclavijo/)
+[![Gmail Badge](https://img.shields.io/badge/-andrea.clavijo.r@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrea.clavijo.r@gmail.com)](mailto:andrea.clavijo.r@gmail.com)
+

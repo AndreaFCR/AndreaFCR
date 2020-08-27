@@ -2,7 +2,7 @@
 
 ## 📖 About me
 
-#### <em> I'm a computational biologist who decided to change her life becoming a "tech girl" as a newbie front-end developer. Here, you can find stuff I'm learning and working on. Take a look!</em> 😉
+#### <em> I'm a computational biologist who decided to change her life becoming a "tech girl" as a newbie front-end developer. Here you can find stuff I'm learning and working on. Take a look!</em> 😉
 
 <br />
 

@@ -22,8 +22,9 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![vscode](https://img.shields.io/badge/-vscode-007acc?style=flat-square&logo=visual-studio-code)
+![vscode](https://img.shields.io/badge/-vscode-007ACC?style=flat-square&logo=visual-studio-code)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=trello)
 
 ## 👇 You can find me 
 

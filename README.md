@@ -25,9 +25,11 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=plastic&logo=bitbucket)
 ![vscode](https://img.shields.io/badge/-vscode-007ACC?style=plastic&logo=visual-studio-code)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=plastic&logo=slack)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=plastic&logo=trello)
+![ClickUp](https://img.shields.io/badge/-ClickUp-7B68EE?style=plastic&logo=clickup&logoColor=white)
 
 ## 👇 You can find me 
 

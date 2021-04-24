@@ -22,7 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=plastic&logo=vue.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white)<br />
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=plastic&logo=bitbucket)

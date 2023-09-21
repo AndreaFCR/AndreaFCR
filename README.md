@@ -8,7 +8,7 @@
 
 👩🏽‍💻 I’m currently working at [Datamaran](https://www.datamaran.com/ "Datamaran's Homepage") as a software developer<br />
 🌱 I’m currently learning everything 🤣 <br />
-🎯 2021 Goals: Python and Vue, crazier 🤪 <br />
+🎯 2023 Goals (September): Start to add greens here 💻 🤓<br />
 ⚡ Fun facts: I love watching Christopher Nolan's movies 📽, cooking new delicious recipes 👩‍🍳 (any suggestion?) and dancing salsa 💃
 
 ## ⚙ Languages and Tools

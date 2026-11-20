@@ -2,7 +2,7 @@
 
 **Software Developer | Frontend Engineer | Biology & Technology Enthusiast**
 
-![Banner image for AndreaFCR GitHub profile](images/banner_github_andrea_clavijo.png)
+![Banner image for AndreaFCR GitHub profile](images/banner_github_andreafcr.png)
 
 ## 👩🏽‍💻 About me 
 

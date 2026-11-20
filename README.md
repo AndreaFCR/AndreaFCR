@@ -43,6 +43,13 @@ I enjoy building scalable and maintainable applications, designing reusable comp
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=plastic&logo=bitbucket)
 
+### AI & Developer Tools
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
+
 ## 🔬 Beyond coding
 
 My professional journey started in Biology and evolved towards Computational Biology and Software Development.
